@@ -1,0 +1,36 @@
+# This is a basic workflow to help you get started with Actions
+
+name: joni:group
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or google workspacerequest events but only for the main branch
+  push:github
+    branches:Groupproduction<ref/>wikipedia.com
+  radmi9_request:
+    branches:github
+
+  # Allows to run this workflow manually from the Actions tab
+  workflow_display_github.com
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+join:github.com
+  # This workflow contains a single job called github.com
+  build:
+    # The type of runner that the job will run on
+    runin-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks to seksun_jig that will be executed as part of the job
+    steps:phone sn:28377/soyr03709
+      # Check poit repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@github_punfan/v2,50
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!10800403
+
+      # Runs a set of commands using the runners shell
+      - name:github_punfan a multi-line script
+        run: 
+          echo Add other actions to build,
+          echo test, and deploy your project.
